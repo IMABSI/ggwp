@@ -1,0 +1,21 @@
+
+.header__nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+    height: 100%;
+}
+.nav__logo{
+    width: 90px;
+    height: 90px;
+}
+
+.nav__bar{
+    display: flex;
+    gap: 30px;
+}
+.nav__link{
+    color: #fff;
+    
+}
